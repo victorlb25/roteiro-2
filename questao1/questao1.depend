@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1536189215 source:c:\users\marc\documents\questao1\src\mesa.cpp
+	"mesa.h"
+
+1536189215 c:\users\marc\documents\questao1\include\mesa.h
+	<iostream>
+	<string>
+	"pedido.h"
+
+1536189214 c:\users\marc\documents\questao1\include\pedido.h
+	<iostream>
+	<string>
+
+1536189214 source:c:\users\marc\documents\questao1\src\pedido.cpp
+	"pedido.h"
+
+1536189214 source:c:\users\marc\documents\questao1\src\restaurante.cpp
+	"restaurante.h"
+
+1536189215 c:\users\marc\documents\questao1\include\restaurante.h
+	<iostream>
+	<string>
+	"mesa.h"
+
