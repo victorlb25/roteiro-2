@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536191706 source:c:\users\marc\documents\questao2\main.cpp
+	<iostream>
+	"pessoa.h"
+	"endereco.h"
+
+1536191706 c:\users\marc\documents\questao2\include\pessoa.h
+	<iostream>
+	<string>
+	"endereco.h"
+
+1536191706 c:\users\marc\documents\questao2\include\endereco.h
+	<iostream>
+	<string>
+
